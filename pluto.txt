@@ -1,1 +1,4 @@
-It's is so a planet. 
+
+It's is so a planet.
+This is a planet.
+>>>>>>> 14c10a68fec4e0afb970c2378399d17012854e42

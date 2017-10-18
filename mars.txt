@@ -1,3 +1,7 @@
 Cold and dry ,but  everything is my favorite color
 The two moons may be a problem for Wolfman.
+<<<<<<< HEAD
 This line added to Dracula
+=======
+This line added to Wolfman.
+>>>>>>> 14c10a68fec4e0afb970c2378399d17012854e42
